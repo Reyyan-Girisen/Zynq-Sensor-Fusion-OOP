@@ -1,4 +1,3 @@
-<img width="1303" height="774" alt="donanım görsel" src="https://github.com/user-attachments/assets/eb841aa2-62fb-428c-a645-4f76de31cb7c" />
 
 # Zynq-Sensor-Fusion-OOP
 
