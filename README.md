@@ -19,4 +19,4 @@ Bu proje, Xilinx Zynq-7000 SoC (PYNQ-Z2) mimarisi üzerinde C++ ve Nesne Yöneli
 * `pynq_z2_pins.xdc` : FPGA (PL) pinlerinin fiziksel Zynq donanımına haritalandığı dosya.
 
 ## Donanım Kurulumu
-![Zynq Sensör Füzyonu Donanım Kurulumu](donanim_kurulumu.jpg)
+![Zynq Sensör Füzyonu Donanım Kurulumu](donanim.png)](https://github.com/kullanici_adi/repo_adi/kurulum_sayfasi)
