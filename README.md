@@ -1,3 +1,4 @@
+<img width="1303" height="774" alt="donanım görsel" src="https://github.com/user-attachments/assets/eb841aa2-62fb-428c-a645-4f76de31cb7c" />
 
 # Zynq-Sensor-Fusion-OOP
 
@@ -19,4 +20,4 @@ Bu proje, Xilinx Zynq-7000 SoC (PYNQ-Z2) mimarisi üzerinde C++ ve Nesne Yöneli
 * `pynq_z2_pins.xdc` : FPGA (PL) pinlerinin fiziksel Zynq donanımına haritalandığı dosya.
 
 ## Donanım Kurulumu
-![Zynq Sensör Füzyonu Donanım Kurulumu](donanim.png)](https://github.com/kullanici_adi/repo_adi/kurulum_sayfasi)
+![Zynq Sensör Füzyonu Donanım Kurulumu](<img width="1303" height="774" alt="donanım görsel" src="https://github.com/user-attachments/assets/eb841aa2-62fb-428c-a645-4f76de31cb7c" />)
