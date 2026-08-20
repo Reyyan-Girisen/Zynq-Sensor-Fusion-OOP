@@ -1,4 +1,4 @@
-# Zynq-Sensor-Fusion-OPP
+# Zynq-Sensor-Fusion-OOP
 
 Bu proje, Xilinx Zynq-7000 SoC (PYNQ-Z2) mimarisi üzerinde C++ ve Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak geliştirilmiş bir donanım/yazılım ortak tasarım (co-design) projesidir. Sistem, ivme ve ağırlık/kuvvet verilerinin eşzamanlı olarak okunup filtrelendiği bir gömülü sistem prototiptir.
 
